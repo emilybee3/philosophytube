@@ -1,0 +1,83 @@
+Level 1: Ethics
+Level 2: Superclass
+Level 3: School of Thought
+Level 4: Philosophers
+
+{
+    "name": "flare",
+    "children": [{
+            "name": "deontology",
+            "children": [{
+                "name": "kantian ethics",
+                "children": [{
+                    "name": "Immanuel Kant",
+                    "size": 10
+                }]
+            }]
+        }, {
+            "name": "consequentialism",
+            "children": [{
+                "name": "utilitarianism",
+                "children": [{
+                    "name": "Shelly Kagan",
+                    "size": 10
+                }, {
+                    "name": "Thomas Nagel",
+                    "size": 10
+                }, {
+                    "name": "Jeremy Bentham",
+                    "size": 10
+                }]
+            }, {
+                "name": "political theory",
+                "children": [{
+                    "name": "Thomas Pogge",
+                    "size": 10
+                }, {
+                    "name": "John M. Taurek",
+                    "size": 10
+                }, {
+                    "name": "Derek Parfit",
+                    "size": 10
+                }, {
+                    "name": "Jens Timmerman",
+                    "size": 10
+                }]
+            }, {
+                "name": "feminist theory",
+                "children": [{
+                    "name": "Steven Hales",
+                    "size": 10
+                }, {
+                    "name": "Christine Overall",
+                    "size": 10
+                }, {
+                    "name": "Elizabeth Brake",
+                    "size": 10
+                }]
+            }]
+        }, {
+            "name": "Hellenistic",
+            "children": [{
+                "name": "stoicism",
+                "children": [{
+                    "name": "Zeno of Citium",
+                    "size": 10
+                }, {
+                    "name": "Ceasar Agustus",
+                    "size": 10
+                }, {
+                    "name": "Cicero",
+                    "size": 10
+                }, {
+                    "name": "Brutus",
+                    "size": 10
+                }, {
+                    "name": "Marcus Aurelius",
+                    "size": 10
+                }]
+            }]
+        }
+
+    ]
+}
